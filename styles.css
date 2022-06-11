@@ -1,0 +1,19 @@
+body {
+  background: #cbffff;
+}
+
+#mainDiv {
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+#boxDiv {
+  margin: 0 auto;
+  background-color: transparent;
+  border: solid rgb(255, 251, 39) 4px;
+  height: 400px;
+  width: 600px;
+  border-radius: 20px;
+}
